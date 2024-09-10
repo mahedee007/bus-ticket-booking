@@ -5,3 +5,7 @@
 h1{
     @apply text-6xl font-body font-extrabold text-white
 }
+
+.seat{
+    @apply w-[110px] h-[56px] bg-[#F7F8F8] flex items-center justify-center rounded-xl font-paragraph font-semibold text-[18px]
+}
